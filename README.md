@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Learn More](#learn-more)
 - [Deploy on Vercel](#deploy-on-vercel)
 - [ESLint](#eslint)
+- [Prettier](#prettier)
 
 ## Getting Started
 
@@ -67,4 +68,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   "react/react-in-jsx-scope": "off",
   "@typescript-eslint/explicit-module-boundary-types": "off"
 }
+```
+
+## Prettier
+
+- [Link](https://prettier.io/docs/en/install.html)
+- format the code:
+
+```bash
+yarn format
 ```
