@@ -78,3 +78,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ```bash
 yarn format
 ```
+
+- In order to install alongside the [linter](https://prettier.io/docs/en/integrating-with-linters.html) (ESLint): <https://github.com/prettier/eslint-config-prettier>
